@@ -15,6 +15,7 @@
         |-- Ltime.py  
     |-- data    # Resulting from data processing
     |-- dataset # Source dataset
+    |-- model    # word vector
 ```
 
 ### About processData.py:
